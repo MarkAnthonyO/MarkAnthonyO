@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarkAnthonyO
+- 👋 Hi, I’m Marco Antonio
 - 👀 I’m interested in Android development
 - 🌱 I’m currently learning computer systems
 
