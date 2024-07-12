@@ -4,3 +4,4 @@
 - 🖥️ I'm programming technician
 - 🌱 I'm currently learning computer systems
 - ✨ I like anime
+- 💡 I'm learning English and Japase
